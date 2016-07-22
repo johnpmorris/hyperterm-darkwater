@@ -2,7 +2,7 @@
 
 a dark, flat theme for hyperterm
 
-![theme screenshot](http://imgur.com/a/ivXVT)
+[Theme Screenshot](http://i.imgur.com/Kq0MmKx.png)
 
 add `hyperterm-darkwater` to your `plugins` in `~/.hyperterm.js`
 

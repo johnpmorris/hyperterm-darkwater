@@ -6,3 +6,4 @@ a dark, flat theme for hyperterm
 
 add `hyperterm-darkwater` to your `plugins` in `~/.hyperterm.js`
 
+I may or may not have just taken the name from a CS:GO skin... 

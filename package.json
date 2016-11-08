@@ -1,5 +1,5 @@
 {
-  "name": "hyperterm-darkwater",
+  "name": "hyper-darkwater",
   "version": "1.0.0",
   "description": "flat, dark theme with pastel colours",
   "main": "index.js",
@@ -8,7 +8,9 @@
   },
   "keywords": [
     "hyperterm",
-    "theme"
+    "theme",
+    "hyper",
+    "terminal"
   ],
   "author": "John Morris",
   "license": "ISC"

@@ -6,7 +6,14 @@ exports.decorateConfig = (config) => {
     borderColor: '#333',
     css: `
       ${config.css || ''}
-      .tabs_list, .tab_text, .hyperterm_main { border: none; }
+      .tab_tab,
+      .tabs_nav,
+      .hyper_main,
+      .tabs_borderShim,
+      .tabs_list, 
+      .tab_text, 
+      .hyperterm_main { 
+        border: none }
       .tabs_list { border-radius: 3.8px 0 3.8px 0 }
       .tab_active:before { border: none }
       .tabs_list { background: #222 }
